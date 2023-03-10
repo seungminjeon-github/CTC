@@ -1,9 +1,9 @@
 # CTC (CVPR 2023)
-**"Context-based Trit-Plane Coding for Progressive Image Compression"** [[paper]](TBC)
+**"[Context-based Trit-Plane Coding for Progressive Image Compression](tbc),"** In CVPR 2023.
 
-Seungmin Jeon, Kwang Pyo Choi, Youngo Park, Chang-Su Kim (Corresponding author)
+Seungmin Jeon, Kwang Pyo Choi, Youngo Park and Chang-Su Kim.
 
-PyTorch-Based Official Code for CTC.
+PyTorch-Based Official Code for **CTC**.
 
 ## Requirements
 - pytorch 1.11.0 (cudatoolkit 11.0)
