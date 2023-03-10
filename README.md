@@ -6,7 +6,7 @@ PyTorch based deep progressive image compression algorithm **CTC** code. [[paper
 ## Requirements
 - pytorch 1.11.0 (cudatoolkit 11.0)
 - torchvision 0.12.0
-- CompressAI 1.2.1
+- [CompressAI](https://github.com/InterDigitalInc/CompressAI) 1.2.1
 - Ubuntu 18.04 recommended
 
 ## Installation
