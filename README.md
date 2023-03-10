@@ -9,6 +9,9 @@ PyTorch based deep progressive image compression algorithm **CTC** code. [[paper
 - CompressAI 1.2.1
 - Ubuntu 18.04 recommended
 
+## Installation
+Download [pre-trained model](https://drive.google.com/file/d/1q0IyOnOcl9E9Y07viYjmLmj3FkA3ZDMT/view?usp=sharing) parameters on the root path.
+
 ## Usage
 ### Encoding
 ```bash
