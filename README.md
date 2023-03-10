@@ -1,7 +1,8 @@
 # CTC (CVPR2023)
 Seungmin Jeon, Kwang Pyo Choi, Youngo Park, Chang-Su Kim (Corresponding author)
 
-PyTorch based deep progressive image compression algorithm **CTC** code. [[paper]](TBC)
+**Context-based Trit-Plane Coding for Progressive Image Compression**[[paper]](TBC)
+PyTorch based deep progressive image compression algorithm **CTC** code.
 
 ## Requirements
 - pytorch 1.11.0 (cudatoolkit 11.0)
