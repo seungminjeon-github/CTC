@@ -1,5 +1,5 @@
 # CTC (CVPR 2023)
-**"[Context-based Trit-Plane Coding for Progressive Image Compression](tbc),"** In CVPR 2023.
+**"[Context-based Trit-Plane Coding for Progressive Image Compression](https://arxiv.org/pdf/2303.05715.pdf),"** In CVPR 2023.
 
 Seungmin Jeon, Kwang Pyo Choi, Youngo Park and Chang-Su Kim.
 
