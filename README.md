@@ -6,6 +6,7 @@ Seungmin Jeon, Kwang Pyo Choi, Youngo Park and Chang-Su Kim.
 PyTorch-Based Official Code for **CTC**.
 
 ## Requirements
+- python 3.9
 - pytorch 1.11.0 (cudatoolkit 11.0)
 - torchvision 0.12.0
 - [CompressAI](https://github.com/InterDigitalInc/CompressAI) 1.2.1
